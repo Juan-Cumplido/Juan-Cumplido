@@ -1,7 +1,14 @@
 # 👋, I'm Juan
 I’m currently a software engineering student<br>I’m always learning new technologies such as .NET Framework <br>💬 Ask me about anything you want to know about me!
 
-## 🌐 Socials:
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-eduardo-cumplido-negrete-ba2740304/) 
 
 # 💻 Tech Stack:

@@ -12,12 +12,6 @@
 <!--Intro start-->
 - 🔭 I’m currently a **Software Engineering student**.
 
-- 🌱 I’m currently learning **new technologies like .NET Framework.**
-
-- 📫 Feel free to reach me out **cumplidonegret14@gmail.com**
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
